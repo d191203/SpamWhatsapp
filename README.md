@@ -1,2 +1,0 @@
-#SpamWhatsapp
-#nomor target
